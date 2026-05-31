@@ -24,16 +24,16 @@ This dashboard helps analyze student academic performance through interactive vi
 ## Project Screenshot
 
 ### Screenshot 1
-![Screenshot1](screenshot/Screenshot1.png)
+![Screenshot1](Screenshot1.png)
 
 ### Screenshot 2
-![Screenshot2](screenshot/Screenshot2.png)
+![Screenshot2](Screenshot2.png)
 
 ### Screenshot 3
-![Screenshot3](screenshot/Screenshot3.png)
+![Screenshot3](Screenshot3.png)
 
 ### Screenshot 4
-![Screenshot4](screenshot/Screenshot4.png)
+![Screenshot4](Screenshot4.png)
 
 ## Author
 
